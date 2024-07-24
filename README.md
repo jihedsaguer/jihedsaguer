@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jihedsaguer
-- 👀 I’m interested in data science 
-- 🌱 I’m currently learning coding 
-- 💞️ I’m looking to collaborate on small project to learn more 
+- 👀 I’m web developper
+- 🌱 develop dynamic websites and web application 
+- 💞️ I’m looking to collaborate on small project to get more experience
 - 📫 How to reach me jihedsaguer127@gmail.com
 
 
