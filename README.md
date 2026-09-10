@@ -56,10 +56,9 @@
 
 ### 📌 Featured Projects
 
-> Pin your best repositories to your GitHub profile (Profile → Customize your pins) so they show up automatically above this README, or list 2–3 favorites manually here:
 
-- **[Project Name](https://github.com/jihedsaguer/NEUROSTAGE_AI_backend)** — nestjs backend to handle intership managments for SOTETEL tunisia.
-- **[Project Name](https://github.com/jihedsaguer/Ai_agent_neurostage)** — FastApi Rag agent , matching pipeline with OCR extraction for CV .
+- **[NeuroStage_IA](https://github.com/jihedsaguer/NEUROSTAGE_AI_backend)** — nestjs backend to handle intership managments for SOTETEL tunisia.
+- **[Neurostage_AI_Agent](https://github.com/jihedsaguer/Ai_agent_neurostage)** — FastApi Rag agent , matching pipeline with OCR extraction for CV .
 
 ---
 
