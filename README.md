@@ -34,9 +34,10 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=postgres&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-4479A1?style=for-the-badge&logo=Python&logoColor=white" />
+
 </p>
 
-> ⚠️ Edit the badges above to match your actual stack — remove any you don't use, add others (e.g. TypeScript, Next.js, PHP, Laravel, Tailwind) from [shields.io](https://shields.io/) or [simple-icons](https://simpleicons.org/).
 
 ---
 
